@@ -3,3 +3,10 @@
 **Building today. Designing tomorrow. Inspiring the minds that will shape what comes next.**
 
 ---
+
+### ✦ Beyond the Build
+
+I build things worth believing in—and bring ambitious minds together to take them further.
+### What I Do
+
+Computer Science graduate · Master's in Data Science · Web Developer
