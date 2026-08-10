@@ -4,7 +4,7 @@
 
 ---
 
-### ✦ Beyond the Build
+## Beyond the Build
 
 I build things worth believing in—and bring ambitious minds together to take them further.
 ### What I Do
