@@ -9,4 +9,4 @@
 I build things worth believing in—and bring ambitious minds together to take them further.
 ### What I Do
 
-Computer Science graduate · Master's in Data Science · Web Developer
+Computer Science graduate · Master's in Data Science · Junior Web Developer
